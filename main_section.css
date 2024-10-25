@@ -21,7 +21,7 @@
 	flex-direction: column;
 	padding: 2em;
 	align-items: center;
-	background-image: url("../img/lago-illuminata.jpg");
+	background-image: url("./lago-illuminata.jpg");
 	background-position: center;
 	min-height: 50vh;
 	background-size: cover;
